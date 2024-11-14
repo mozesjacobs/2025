@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Sample Blog Post
+title: Can you hear the shape of an object?
 description: Your blog post's abstract.
   Please add your abstract or summary here and not in the main body of your text. 
   Do not include math/latex or hyperlinks.
@@ -14,10 +14,10 @@ hidden: false
 #   - name: Anonymous
 
 authors:
-  - name: Albert Einstein
+  - name: Mozes Jacobs
     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
     affiliations:
-      name: IAS, Princeton
+      name: Kempner Institute, Harvard
   - name: Boris Podolsky
     url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
     affiliations:
